@@ -1,0 +1,16 @@
+{
+"companyName": "Mad About Pandas with Lena Grigorian",
+"productName": "The Eisenstein Project",
+"productVersion": "1",
+"dataUrl": "Eisenstein_WebVR.data.unityweb",
+"wasmCodeUrl": "Eisenstein_WebVR.wasm.code.unityweb",
+"wasmFrameworkUrl": "Eisenstein_WebVR.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
